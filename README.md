@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelMartin77
 - 👀 I’m interested in Frontend Developement 
-- 🌱 I’m currently learning HTML, CSS, Javascript and Shopify
+- 🌱 I’m currently learning HTML, CSS, Javascript and Shopify Development 
 - 💞️ I’m looking to collaborate on any projects regarding Shopify or Frontend Development
 - 📫 Please connect with me at https://michaelmartin.dev
 
