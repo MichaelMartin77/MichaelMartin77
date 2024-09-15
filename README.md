@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MichaelMartin77
-- 👀 I’m interested in Frontend Developement 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Java, and Shopify Development 
+- 👀 I’m a Full Stack Developer 
+- 🌱 I’m specialize in HTML, CSS, Javascript, Java, and Shopify Development 
 - 🌟 I’m looking to collaborate on any projects regarding Shopify or Frontend Development
-- 📫 Please connect with me at martin.michael@gmail.com 
+- 📫 Please contact me at: dev@michaelmartinstudios.com
+- Linkedin: https://www.linkedin.com/in/michael-martin-b96307202/
 
 <!---
 MichaelMartin77/MichaelMartin77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
