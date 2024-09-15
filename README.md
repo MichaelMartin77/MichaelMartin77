@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelMartin77
 - 👀 I’m a Full Stack Developer 
-- 🌱 I’m specialize in HTML, CSS, Javascript, Java, and Shopify Development 
+- 🌱 I specialize in HTML, CSS, Javascript, Java, and Shopify Development 
 - 🌟 I’m looking to collaborate on any projects regarding Shopify or Frontend Development
 - 📫 Please contact me at: dev@michaelmartinstudios.com
 - Linkedin: https://www.linkedin.com/in/michael-martin-b96307202/
